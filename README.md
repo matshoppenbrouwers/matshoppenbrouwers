@@ -13,7 +13,7 @@ Deep into ai-assisted-coding – building AI-powered productivity tools like [Co
 
 
 ## current projects
-- 🚦 **[Commandlane]([<link>](https://www.commandlane.ai/))** — The smart app that makes everything else fit together
+- 🚦 **[[Commandlane]([<link>](https://www.commandlane.ai/))**](https://github.com/frameworkreboot/commandlane-community) — The smart app that makes everything else fit together
 - 🧠 **[<project 2>](<link>)** — <one-line description>
 - 🧰 **[<project 3>](<link>)** — <one-line description>
 - 🗂️ **[<project 4>](<link>)** — <one-line description>
