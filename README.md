@@ -1,16 +1,25 @@
-## Hi there 👋
+# hi, i'm <name> 👋
 
-<!--
-**matshoppenbrouwers/matshoppenbrouwers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Netherlands | 🤖 ClaudeCode Enthusiast | 🚀 CommandLane
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat&logo=vercel&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-111111?style=flat&logo=gnubash&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Deep into ai-assisted-coding – building AI-powered productivity tools like [CommandLane](https://www.commandlane.ai/) to enhance ClaudeCode and agentic workflows further.
+
+
+## current projects
+- 🚦 **[Commandlane]([<link>](https://www.commandlane.ai/))** — The smart app that makes everything else fit together
+- 🧠 **[<project 2>](<link>)** — <one-line description>
+- 🧰 **[<project 3>](<link>)** — <one-line description>
+- 🗂️ **[<project 4>](<link>)** — <one-line description>
+- ⚡ **[<project 5>](<link>)** — <one-line description>
+
+## connect
+- [<website>](https://www.commandlane.ai/)
+- [<threads>](https://www.threads.com/)
+- <[x](https://x.com/hoponstack)>
