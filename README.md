@@ -1,4 +1,4 @@
-# hi, i'm <name> 👋
+# hi, i'm Mats 👋
 
 📍 Netherlands | 🤖 ClaudeCode Enthusiast | 🚀 CommandLane
 
@@ -9,7 +9,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat&logo=vercel&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-111111?style=flat&logo=gnubash&logoColor=white)
 
-Deep into ai-assisted-coding – building AI-powered productivity tools like [CommandLane](https://www.commandlane.ai/) to enhance ClaudeCode and agentic workflows further.
+Deep into ai-assisted-coding – building AI-powered productivity tools like [CommandLane](https://www.commandlane.ai/) as a shell for ClaudeCode and other agentic harnasses and workflows (openclaw, hermes).
 
 
 ## current projects
