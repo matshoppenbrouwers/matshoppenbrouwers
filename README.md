@@ -17,6 +17,6 @@ Deep into ai-assisted-coding – building AI-powered productivity tools like [Co
 - 🧠 **[Session-Flow](https://github.com/matshoppenbrouwers/session-flow)** — Session workflow orchestration for Claude Code. A complete development lifecycle chain — from research through release — with dependency-aware parallelization and collaborative brainstorming at every stage.
 
 ## connect
-- [<website>](https://www.commandlane.ai/)
-- [<threads>](https://www.threads.com/)
-- <[x](https://x.com/hoponstack)>
+- [Commandlane](https://www.commandlane.ai/)
+- [Threads](https://www.threads.com/)
+- <[X/Twitter](https://x.com/hoponstack)>
