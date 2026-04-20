@@ -14,10 +14,7 @@ Deep into ai-assisted-coding – building AI-powered productivity tools like [Co
 
 ## current projects
 - 🚦 **[CommandLane](https://github.com/frameworkreboot/commandlane-community)** — The smart app that makes everything else fit together
-- 🧠 **[<project 2>](<link>)** — <one-line description>
-- 🧰 **[<project 3>](<link>)** — <one-line description>
-- 🗂️ **[<project 4>](<link>)** — <one-line description>
-- ⚡ **[<project 5>](<link>)** — <one-line description>
+- 🧠 **[Session-Flow](https://github.com/matshoppenbrouwers/session-flow)** — Session workflow orchestration for Claude Code. A complete development lifecycle chain — from research through release — with dependency-aware parallelization and collaborative brainstorming at every stage.
 
 ## connect
 - [<website>](https://www.commandlane.ai/)
