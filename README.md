@@ -19,4 +19,4 @@ Deep into ai-assisted-coding – building AI-powered productivity tools like [Co
 ## connect
 - [Commandlane](https://www.commandlane.ai/)
 - [Threads](https://www.threads.com/)
-- <[X/Twitter](https://x.com/hoponstack)>
+- [X/Twitter](https://x.com/hoponstack)
