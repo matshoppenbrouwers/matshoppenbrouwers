@@ -15,6 +15,7 @@ Deep into ai-assisted-coding – building AI-powered productivity tools like [Co
 ## current projects
 - 🚦 **[CommandLane](https://github.com/frameworkreboot/commandlane-community)** — The smart app that makes everything else fit together
 - 🧠 **[Session-Flow](https://github.com/matshoppenbrouwers/session-flow)** — Session workflow orchestration for Claude Code. A complete development lifecycle chain — from research through release — with dependency-aware parallelization and collaborative brainstorming at every stage.
+-  **[Anvil-Uplink-CLI](https://github.com/matshoppenbrouwers/anvil-uplink-cli)** - A terminal bridge to Anvil apps via the Server Uplink. Run diagnostics, query Data Tables, invoke server functions, and drop into an interactive REPL — all from your shell or an AI coding assistant.
 
 ## connect
 - [Commandlane](https://www.commandlane.ai/)
